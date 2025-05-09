@@ -1,0 +1,303 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 6CBC-3522
+
+ Pasta de C:\Users\arman\source\repos\LGit
+
+24/03/2025  16:00    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43                84 .gitignore
+24/03/2025  15:48    <DIR>          .vs
+24/03/2025  15:43             2.789 about.cpp
+24/03/2025  15:43             8.111 addscc.cpp
+24/03/2025  15:43             3.188 apply.cpp
+24/03/2025  15:43            22.324 branch.cpp
+24/03/2025  15:43             1.078 branch.ico
+24/03/2025  15:43               318 branch_r.ico
+24/03/2025  15:43             6.822 caps.cpp
+24/03/2025  15:43             6.110 cert.cpp
+24/03/2025  15:43            13.087 checkout.cpp
+24/03/2025  15:43             1.188 cherry.cpp
+24/03/2025  15:43             7.168 clone.cpp
+24/03/2025  15:43             4.790 cmdopts.cpp
+24/03/2025  15:43            13.940 commit.cpp
+24/03/2025  15:43             8.706 commitmk.cpp
+24/03/2025  15:43             8.002 commitvw.cpp
+24/03/2025  15:43            18.388 COPYING.txt
+24/03/2025  15:43             5.071 coutcflt.cpp
+24/03/2025  15:43             3.115 DEPS.md
+24/03/2025  15:43             9.093 diff.cpp
+24/03/2025  15:43             1.078 diff.ico
+24/03/2025  15:43               318 diffadd.ico
+24/03/2025  15:43               318 diffbin.ico
+24/03/2025  15:43               318 diffdel.ico
+24/03/2025  15:43               318 difffila.ico
+24/03/2025  15:43               318 difffilb.ico
+24/03/2025  15:43               318 diffhunk.ico
+24/03/2025  15:43            11.560 diffwin.cpp
+24/03/2025  15:43             4.538 format.cpp
+24/03/2025  15:43            11.548 gitconf.cpp
+24/03/2025  15:43               318 head.ico
+24/03/2025  15:43            19.735 history.cpp
+24/03/2025  15:43             1.078 history.ico
+24/03/2025  15:43            81.336 LGit.aps
+24/03/2025  15:43             5.935 LGit.cpp
+24/03/2025  15:43             9.739 LGit.dsp
+24/03/2025  15:43             1.001 LGit.dsw
+24/03/2025  15:43            12.796 LGit.h
+24/03/2025  15:43             1.078 lgit.ico
+24/03/2025  15:43            38.343 LGit.rc
+24/03/2025  16:00                 0 lista.txt
+24/03/2025  15:43             2.537 logging.cpp
+24/03/2025  15:43            10.740 merge.cpp
+24/03/2025  15:43             7.380 path.cpp
+24/03/2025  15:43             5.383 progress.cpp
+24/03/2025  15:43            10.007 project.cpp
+24/03/2025  15:43            10.942 pushpull.cpp
+24/03/2025  15:43            16.726 query.cpp
+24/03/2025  15:43               572 ReadMe.txt
+24/03/2025  15:43            13.913 remote.cpp
+24/03/2025  15:43             7.385 remotecb.cpp
+24/03/2025  15:43             8.919 resource.h
+24/03/2025  15:43             3.359 revert.cpp
+24/03/2025  15:43             4.878 revparse.cpp
+24/03/2025  15:43            32.196 runscc.cpp
+24/03/2025  15:43            60.726 scc_1_3.h
+24/03/2025  15:43               650 SetupReadme.rtf
+24/03/2025  15:43             4.733 sigwin.cpp
+24/03/2025  15:43             7.148 stage.cpp
+24/03/2025  15:43             7.012 status.cpp
+24/03/2025  15:43               291 StdAfx.cpp
+24/03/2025  15:43             2.490 StdAfx.h
+24/03/2025  15:43             9.404 string.cpp
+24/03/2025  15:43    <DIR>          SwapSCC
+24/03/2025  15:43             7.272 tag.cpp
+24/03/2025  15:43               318 tag.ico
+24/03/2025  15:43               318 tag_l.ico
+24/03/2025  15:43             2.090 unicode.cpp
+24/03/2025  15:43    <DIR>          VGit
+24/03/2025  15:43             3.835 VisualGit.iss
+24/03/2025  15:43            11.954 winutil.cpp
+              69 arquivo(s)        598.541 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git
+
+24/03/2025  16:00    <DIR>          ..
+24/03/2025  15:44               532 config
+24/03/2025  15:43                73 description
+24/03/2025  15:44                90 FETCH_HEAD
+24/03/2025  15:43                21 HEAD
+24/03/2025  15:43    <DIR>          hooks
+24/03/2025  15:43             6.960 index
+24/03/2025  15:43    <DIR>          info
+24/03/2025  15:43    <DIR>          logs
+24/03/2025  15:46    <DIR>          objects
+24/03/2025  15:43               112 packed-refs
+24/03/2025  15:43    <DIR>          refs
+               6 arquivo(s)          7.788 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\hooks
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43               478 applypatch-msg.sample
+24/03/2025  15:43               896 commit-msg.sample
+24/03/2025  15:43             4.726 fsmonitor-watchman.sample
+24/03/2025  15:43               189 post-update.sample
+24/03/2025  15:43               424 pre-applypatch.sample
+24/03/2025  15:43             1.649 pre-commit.sample
+24/03/2025  15:43               416 pre-merge-commit.sample
+24/03/2025  15:43             1.374 pre-push.sample
+24/03/2025  15:43             4.898 pre-rebase.sample
+24/03/2025  15:43               544 pre-receive.sample
+24/03/2025  15:43             1.492 prepare-commit-msg.sample
+24/03/2025  15:43             2.783 push-to-checkout.sample
+24/03/2025  15:43             2.308 sendemail-validate.sample
+24/03/2025  15:43             3.650 update.sample
+              14 arquivo(s)         25.827 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\info
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43               240 exclude
+               1 arquivo(s)            240 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\logs
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43               203 HEAD
+24/03/2025  15:43    <DIR>          refs
+               1 arquivo(s)            203 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\logs\refs
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43    <DIR>          heads
+24/03/2025  15:43    <DIR>          remotes
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\logs\refs\heads
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43               203 main
+               1 arquivo(s)            203 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\logs\refs\remotes
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\logs\refs\remotes\origin
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43               203 HEAD
+               1 arquivo(s)            203 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\objects
+
+24/03/2025  15:46    <DIR>          .
+24/03/2025  15:43    <DIR>          info
+24/03/2025  15:43    <DIR>          pack
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\objects\info
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\objects\pack
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+24/03/2025  15:43            20.252 pack-4401472624fe921e8a015cd70c12de50b378493f.idx
+24/03/2025  15:46           349.836 pack-4401472624fe921e8a015cd70c12de50b378493f.pack
+24/03/2025  15:43             2.792 pack-4401472624fe921e8a015cd70c12de50b378493f.rev
+               3 arquivo(s)        372.880 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\refs
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          heads
+24/03/2025  15:43    <DIR>          remotes
+24/03/2025  15:43    <DIR>          tags
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\refs\heads
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43                41 main
+               1 arquivo(s)             41 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\refs\remotes
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43    <DIR>          origin
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\refs\remotes\origin
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+24/03/2025  15:43                30 HEAD
+               1 arquivo(s)             30 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.git\refs\tags
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  15:43    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs
+
+24/03/2025  15:48    <DIR>          .
+24/03/2025  16:00    <DIR>          ..
+24/03/2025  15:46    <DIR>          LGit
+24/03/2025  15:46                57 ProjectSettings.json
+24/03/2025  15:48            90.112 slnx.sqlite
+               2 arquivo(s)         90.169 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs\LGit
+
+24/03/2025  15:46    <DIR>          .
+24/03/2025  15:48    <DIR>          ..
+24/03/2025  15:46    <DIR>          CopilotIndices
+24/03/2025  15:48    <DIR>          FileContentIndex
+24/03/2025  15:46    <DIR>          v17
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs\LGit\CopilotIndices
+
+24/03/2025  15:46    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+24/03/2025  15:46    <DIR>          17.13.439.2385
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs\LGit\CopilotIndices\17.13.439.2385
+
+24/03/2025  15:46    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+24/03/2025  15:46           729.088 CodeChunks.db
+24/03/2025  15:46            32.768 CodeChunks.db-shm
+24/03/2025  15:46         4.120.032 CodeChunks.db-wal
+24/03/2025  15:46            49.152 SemanticSymbols.db
+24/03/2025  15:46            32.768 SemanticSymbols.db-shm
+24/03/2025  15:46            20.632 SemanticSymbols.db-wal
+               6 arquivo(s)      4.984.440 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs\LGit\FileContentIndex
+
+24/03/2025  15:48    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+24/03/2025  15:46           315.071 4e7837d5-f2c8-4799-ae11-dd3fe3ee427c.vsidx
+24/03/2025  15:48               107 ad4d4518-f0c6-464a-9f4c-a3bba6c8f3ee.vsidx
+               2 arquivo(s)        315.178 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\.vs\LGit\v17
+
+24/03/2025  15:46    <DIR>          .
+24/03/2025  15:46    <DIR>          ..
+24/03/2025  15:46         1.204.224 Browse.VC.db
+24/03/2025  15:46            32.768 Browse.VC.db-shm
+24/03/2025  15:46                 0 Browse.VC.db-wal
+               3 arquivo(s)      1.236.992 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\SwapSCC
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  16:00    <DIR>          ..
+24/03/2025  15:43                48 ReadMe.txt
+24/03/2025  15:43               548 resource.h
+24/03/2025  15:43               294 StdAfx.cpp
+24/03/2025  15:43               894 StdAfx.h
+24/03/2025  15:43            34.500 SwapSCC.aps
+24/03/2025  15:43             6.459 SwapSCC.cpp
+24/03/2025  15:43             4.351 SwapSCC.dsp
+24/03/2025  15:43             1.196 swapscc.manifest
+24/03/2025  15:43             4.028 SwapSCC.rc
+               9 arquivo(s)         52.318 bytes
+
+ Pasta de C:\Users\arman\source\repos\LGit\VGit
+
+24/03/2025  15:43    <DIR>          .
+24/03/2025  16:00    <DIR>          ..
+24/03/2025  15:43             1.078 lgit.ico
+24/03/2025  15:43             1.197 ReadMe.txt
+24/03/2025  15:43               453 resource.h
+24/03/2025  15:43               291 StdAfx.cpp
+24/03/2025  15:43             2.227 StdAfx.h
+24/03/2025  15:43            34.892 VGit.aps
+24/03/2025  15:43             2.837 VGit.cpp
+24/03/2025  15:43             4.462 VGit.dsp
+24/03/2025  15:43             1.201 VGit.manifest
+24/03/2025  15:43             3.016 VGit.rc
+              10 arquivo(s)         51.654 bytes
+
+     Total de Arquivos na Lista:
+             130 arquivo(s)      7.736.707 bytes
+              67 pasta(s)   604.030.984.192 bytes dispon°veis
